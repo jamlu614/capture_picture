@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++  -g   CMakeFiles/capture_picture.dir/main.cpp.o  -o capture_picture  -lv4l2 -lssl -lcrypto -lmosquitto 

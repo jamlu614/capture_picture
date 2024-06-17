@@ -1,0 +1,3 @@
+/user_space/rtcpush/capture_picture/build/CMakeFiles/rebuild_cache.dir
+/user_space/rtcpush/capture_picture/build/CMakeFiles/edit_cache.dir
+/user_space/rtcpush/capture_picture/build/CMakeFiles/capture_picture.dir
